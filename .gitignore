@@ -1,0 +1,4 @@
+# Lixo local (convencao: exclusoes vao para trash/)
+trash/
+# Logs de sessao do OpenCode criados no workspace
+session-*.md
