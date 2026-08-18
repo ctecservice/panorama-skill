@@ -20,4 +20,5 @@ echo.
 echo Skill "panorama" instalada em %DESTINO%
 echo Reinicie o opencode (ou o seu agente) para recarregar as skills.
 echo.
+pause
 endlocal
